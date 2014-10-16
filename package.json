@@ -1,0 +1,33 @@
+{
+  "name": "jqb-ko-component",
+  "version": "0.0.0",
+  "description": "KnockoutJS component registration utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm install && grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jqbrick/jqb-ko-component"
+  },
+  "keywords": [
+    "component",
+    "registration",
+    "register",
+    "ko",
+    "knockout",
+    "knockoutjs",
+    "jqbrick"
+  ],
+  "author": "Marco Pegoraro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jqbrick/jqb-ko-component/issues"
+  },
+  "homepage": "https://github.com/jqbrick/jqb-ko-component",
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-mocha-chai-sinon": "~0.0.8",
+    "grunt-contrib-watch": "~0.6.1"
+  }
+}
